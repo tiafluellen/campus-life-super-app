@@ -1,0 +1,15 @@
+/* General page styling */
+body {
+  background-color: #f5f7fa;
+}
+
+/* Navigation tweaks */
+.navbar .nav-link {
+  margin-right: 15px;
+  font-weight: 500;
+}
+
+/* Card spacing */
+.card {
+  border-radius: 10px;
+}
